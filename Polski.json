@@ -1,0 +1,40 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "title": "Zasady polskiego LiveOne",
+   "thumbnail": {
+    
+   },
+   "image": {
+    "url": "https://sherlockhomesbg.com/sites/default/files/articles/2023-05/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.gif"
+   },
+   "fields": [
+    {
+     "name": "Polska rozmowa na czacie",
+     "value": [
+      "- Nigdy nie rozmawiaj o polityce, nie lubimy tego.",
+      "- Mów co chcesz, ale z wyjątkiem POLITYKI",
+      "- Reklamowanie się na czatach jest zabronione, jeśli zapłacisz nam za reklamę, możesz ją wyrzucić.",
+      "- Jeśli zostałeś zbesztany na czacie lub w rozmowie głosowej! Napisz tam skargę <#1227696690979536918>"
+     ],
+     "inline": false
+    },
+    {
+     "name": "Nie ponosimy odpowiedzialności za !",
+     "value": [
+      "1. Jeśli ktoś napisze ci PM (prywatną wiadomość), po prostu zablokuj go i nie martw się.",
+      "2. Jeśli chodzi o Twoje dane, nie jesteśmy firmą Discord, która musi mieć oko na wszystkich i dbać o bezpieczeństwo Twoich danych (po prostu nie podawaj swoich danych na lewo i tyle)."
+     ],
+     "inline": false
+    }
+   ],
+   "color": "#ff0000",
+   "description": "Cieszymy się, że jesteś z nami!",
+   "footer": {
+    "text": "11.04.24"
+   }
+  }
+ ],
+ "components": null
+}
