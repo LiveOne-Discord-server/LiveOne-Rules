@@ -1,0 +1,40 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "title": "European chat room conversation",
+   "thumbnail": {
+    
+   },
+   "image": {
+    "url": "gif media"
+   },
+   "fields": [
+    {
+     "name": "Conversation in en/us chat",
+     "value": [
+      "- Never talk politics, we don't like it.",
+      "- Say what you want, but not politics.",
+      "- Advertising in chat rooms is forbidden, if you pay us for advertising, you can throw it.",
+      "- If you are vilified in chat, or voice chat ! Then write a complaint there <#1227958157905629386>"
+     ],
+     "inline": false
+    },
+    {
+     "name": "We are not responsible for !",
+     "value": [
+      "1. if someone messages you in the OP (Private Messages), just block them and don't sweat it",
+      "2. For your data, we are not a Discord company that has to monitor everyone and keep your data safe (just don't give your data to the wrong people and that's it)."
+     ],
+     "inline": false
+    }
+   ],
+   "color": "#002dff",
+   "description": "We're glad you're with us !",
+   "footer": {
+    "text": "11.04.24"
+   }
+  }
+ ],
+ "components": null
+}
