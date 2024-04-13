@@ -1,0 +1,28 @@
+{
+    "content": null,
+    "embeds": [
+     {
+      "title": "How to contact the developers ?",
+      "fields": [
+       {
+        "name": "Don't PM the developers",
+        "value": "Just because they are open doesn't mean you have to WRITE 20 messages to them, don't write to <@547844730663206938> & <@295159756669059073> , if you have bugs, problems or anything else, then report here <#1227958157905629386>.",
+        "inline": false
+       },
+       {
+        "name": "Regarding commercials or youtubers",
+        "value": "If you want to buy advertising, or become a partner, then first apply there <#1227958157905629386>, and then you will be contacted by the head of advertising ",
+        "inline": false
+       }
+      ],
+      "image": {
+       "url": "https://gifdb.com/images/high/pretty-please-anime-girl-help-me-95qypvvlw2wd7vok.gif"
+      },
+      "color": "#ff0000",
+      "footer": {
+       "text": "13.04.24"
+      }
+     }
+    ],
+    "components": null
+   }
