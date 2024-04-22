@@ -1,0 +1,25 @@
+{
+    "content": null,
+    "embeds": [
+     {
+      "title": "Kontaktaufnahme mit den Entwicklern ?",
+      "fields": [
+       {
+        "name": "Schreiben Sie Entwickler nicht in PM an",
+        "value": "Die Tatsache, dass sie offen sind, bedeutet nicht, dass Sie ihnen 20 Nachrichten schreiben müssen, schreiben Sie nicht an PM <@547844730663206938> & <@295159756669059073> , wenn Sie Bugs, Probleme oder sonst etwas haben, dann melden Sie sich hier <#1229130074230493224>",
+        "inline": false
+       },
+       {
+        "name": "Über Werbung oder YouTuber",
+        "value": "Wenn Sie eine Anzeige kaufen oder Partner werden möchten, bewerben Sie sich zunächst dort <#1229130074230493224>, und der Leiter der Werbeabteilung wird sich dann mit Ihnen in Verbindung setzen.",
+        "inline": false
+       }
+      ],
+      "image": {
+       "url": "https://gifdb.com/images/high/pretty-please-anime-girl-help-me-95qypvvlw2wd7vok.gif"
+      },
+      "color": "#ff0000"
+     }
+    ],
+    "components": null
+   }
