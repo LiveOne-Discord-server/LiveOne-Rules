@@ -1,5 +1,4 @@
 {
- "content": null,
  "embeds": [
   {
    "title": "Zasady polskiego LiveOne",
@@ -7,7 +6,7 @@
     
    },
    "image": {
-    "url": "https://sherlockhomesbg.com/sites/default/files/articles/2023-05/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0.gif"
+    "url": "https://steamuserimages-a.akamaihd.net/ugc/879749250702619911/035E0E7573EEEB016769087660CDBEF59F3C700E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
    },
    "fields": [
     {
@@ -32,26 +31,26 @@
    "color": "#ff0000",
    "description": "Cieszymy się, że jesteś z nami!",
    "footer": {
-    "text": "15.04.24"
+    "text": "11.04.24"
    }
   }
  ],
  "components": [
+  {
+   "type": 1,
+   "components": [
     {
-     "type": 1,
-     "components": [
-      {
-       "type": 2,
-       "style": 4,
-       "label": "READ",
-       "custom_id": "helping-pl",
-       "emoji": {
-        "id": "1187488994196471879",
-        "name": "aaaaaaa",
-        "animated": false
-       }
-      }
-     ]
+     "type": 2,
+     "style": 4,
+     "label": "CZYTAJ",
+     "custom_id": "PL-sviazi",
+     "emoji": {
+      "id": "1187488994196471879",
+      "name": "aaaaaaa",
+      "animated": false
+     }
     }
    ]
+  }
+ ]
 }

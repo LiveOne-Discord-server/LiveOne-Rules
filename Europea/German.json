@@ -1,5 +1,4 @@
 {
- "content": null,
  "embeds": [
   {
    "title": "Regeln der deutschen LiveOne",
@@ -32,26 +31,26 @@
    "color": "#ff0000",
    "description": "Wir sind froh, dass Sie bei uns sind !",
    "footer": {
-    "text": "15.04.24"
+    "text": "13.04.24"
    }
   }
  ],
  "components": [
+  {
+   "type": 1,
+   "components": [
     {
-     "type": 1,
-     "components": [
-      {
-       "type": 2,
-       "style": 4,
-       "label": "READ",
-       "custom_id": "helping-de",
-       "emoji": {
-        "id": "1187488994196471879",
-        "name": "aaaaaaa",
-        "animated": false
-       }
-      }
-     ]
+     "type": 2,
+     "style": 4,
+     "label": "LESEN!!!",
+     "custom_id": "De-sviazi",
+     "emoji": {
+      "id": "1187488994196471879",
+      "name": "aaaaaaa",
+      "animated": false
+     }
     }
    ]
+  }
+ ]
 }
