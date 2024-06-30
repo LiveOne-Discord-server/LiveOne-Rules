@@ -10,3 +10,5 @@ You can take one of the samples, translate it into your language and then send i
 * Kazakhstan - [v1mkss](https://github.com/v1mkss/Discord_LiveOne-Rules)
 * Belarus - [v1mkss](https://github.com/v1mkss/Discord_LiveOne-Rules)
 * German - [v1mkss](https://github.com/v1mkss/Discord_LiveOne-Rules)
+
+[![Crowdin](https://badges.crowdin.net/liveone-rules/localized.svg)](https://crowdin.com/project/liveone-rules)
