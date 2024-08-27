@@ -1,25 +1,26 @@
 {
-    "content": null,
     "embeds": [
      {
-      "title": "Әзірлеушілермен қалай байланысуға болады?",
+      "title": "Jak skontaktować się z deweloperami?",
       "fields": [
        {
-        "name": "Әзірлеушілерге PM жібермеңіз",
-        "value": "Олардың ашық болуы бірден 20 хабарлама ЖАЗУ керек дегенді білдірмейді, PM <@547844730663206938> & <@295159756669059073> қателер, мәселелер немесе басқа нәрсе болса осында хабарлаңыз. <#1229149000188432484>",
+        "name": "Nie wysyłaj PM do deweloperów",
+        "value": "To, że są otwarte, nie oznacza, że musisz do nich PISAĆ 20 wiadomości, nie pisz do LS <@547844730663206938> & <@295159756669059073>, jeśli masz błędy, problemy lub cokolwiek innego, zgłoś tutaj <#1227696690979536918> lub tam <#1227958157905629386>",
         "inline": false
        },
        {
-        "name": "Жарнама немесе Ютуберлер туралы",
-        "value": "Жарнама сатып алғыңыз келсе немесе серіктес болғыңыз келсе, алдымен сол жерге хабарласыңыз <#1229149000188432484>, сонда ғана сізге жарнама басшысы хабарласады.",
+        "name": "Odnośnie reklam lub youtuberów",
+        "value": "Jeśli chcesz kupić reklamę lub zostać partnerem, najpierw zgłoś się tam <#1227958157905629386>, a następnie skontaktuje się z Tobą szef działu reklamy. ",
         "inline": false
        }
       ],
       "image": {
        "url": "https://gifdb.com/images/high/pretty-please-anime-girl-help-me-95qypvvlw2wd7vok.gif"
       },
-      "color": "#ff0000"
+      "color": "#ff0000",
+      "footer": {
+       "text": "13.04.24"
+      }
      }
-    ],
-    "components": null
+    ]
    }
