@@ -2,16 +2,16 @@
     "content": null,
     "embeds": [
      {
-      "title": "How to contact the developers ?",
+      "title": "How to Contact the Developers?",
       "fields": [
        {
-        "name": "Don't PM the developers",
-        "value": "Just because they are open doesn't mean you have to WRITE 20 messages to them, don't write to <@547844730663206938> & <@295159756669059073> , if you have bugs, problems or anything else, then report here <#1227958855346950176>.",
+        "name": "Do not send private messages to the developers.",
+        "value": "Just because they're open to communication doesn't give you the right to bombard them with messages. ***Do not send DMs to*** <@547844730663206938> and <@295159756669059073>. If you have bugs, issues, or questions, report them on the forum.",
         "inline": false
        },
        {
-        "name": "Regarding commercials or youtubers",
-        "value": "If you want to buy advertising, or become a partner, then first apply there <#1227958855346950176>, and then you will be contacted by the head of advertising ",
+        "name": "Regarding Advertising or Partnerships",
+        "value": "If you want to advertise or become a partner, submit your application on the forum first. Then, the person in charge of advertising will contact you.",
         "inline": false
        }
       ],

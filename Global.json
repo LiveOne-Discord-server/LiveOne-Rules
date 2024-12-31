@@ -1,56 +1,59 @@
 {
- "content": null,
- "embeds": [
-  {
-   "title": "Global chat room conversation",
-   "thumbnail": {
-    
-   },
-   "image": {
-    "url": "https://www.flagcolorcodes.com/images/gif/united-nations.gif"
-   },
-   "fields": [
-    {
-     "name": "Conversation in en/us chat",
-     "value": [
-      "- Never talk politics, we don't like it.",
-      "- Say what you want, but not politics.",
-      "- Advertising in chat rooms is forbidden, if you pay us for advertising, you can throw it."
-     ],
-     "inline": false
-    },
-    {
-     "name": "We are not responsible for !",
-     "value": [
-      "1. if someone messages you in the OP (Private Messages), just block them and don't sweat it",
-      "2. For your data, we are not a Discord company that has to monitor everyone and keep your data safe (just don't give your data to the wrong people and that's it)."
-     ],
-     "inline": false
-    }
-   ],
-   "color": "#002dff",
-   "description": "We're glad you're with us !",
-   "footer": {
-    "text": "15.04.24"
-   }
-  }
- ],
- "components": [
-  {
-   "type": 1,
-   "components": [
-    {
-     "type": 2,
-     "style": 4,
-     "label": "READ",
-     "custom_id": "helping-gl",
-     "emoji": {
-      "id": "1187488994196471879",
-      "name": "aaaaaaa",
-      "animated": false
+    "content": null,
+    "embeds": [
+     {
+      "title": "LiveOne Server Rules",
+      "thumbnail": {
+       
+      },
+      "image": {
+       
+      },
+      "fields": [
+       {
+        "name": "Communication:",
+        "value": [
+         " 💬 **Respectful Interaction:** Please remember you're interacting with real people. Toxicity, spam, and profanity are unacceptable. We also advise against discussing political topics.",
+         "",
+         " 💿 **Questions and Answers:** Post your questions in your regional forums or the global forum for better understanding. Messages of this kind in the chat will be considered spam, and moderation may delete them without warning.попередження.",
+         ""
+        ],
+        "inline": false
+       },
+       {
+        "name": "Responsibility:",
+        "value": [
+         "",
+         "🏨 **Private Messages (PM):** If someone messages you privately in a way that bothers you, just block that user. Don’t worry about it.",
+         "",
+         "💾**Data Safety:** We are not responsible for the safety of your personal data. Discord is the platform, but we do not handle data protection. Be cautious and do not share your personal information with strangers."
+        ],
+        "inline": false
+       }
+      ],
+      "color": "#ff0000",
+      "description": "By joining our server, you automatically agree to these rules.",
+      "footer": {
+       "text": "11.04.24"
+      }
      }
-    }
-   ]
-  }
- ]
-}
+    ],
+    "components": [
+     {
+      "type": 1,
+      "components": [
+       {
+        "type": 2,
+        "style": 4,
+        "label": "Read it",
+        "custom_id": "GL-sviazi",
+        "emoji": {
+         "id": "1187488994196471879",
+         "name": "aaaaaaa",
+         "animated": false
+        }
+       }
+      ]
+     }
+    ]
+   }
